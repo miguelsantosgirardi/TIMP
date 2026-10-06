@@ -1,2 +1,4 @@
-# Mine-2600
+# The Immense Minecraft Project
+
+Part 1:
 Minecraft for Atari 2600
